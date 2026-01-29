@@ -1,13 +1,9 @@
-blinker @ file:///C:/miniconda3/conda-bld/blinker_1764332307774/work
-click @ file:///C:/miniconda3/conda-bld/click_1764332357576/work
-colorama @ file:///C:/Users/dev-admin/buildout/croot/colorama_1759952627215/work
+
 filelock==3.20.3
-Flask @ file:///C:/Users/dev-admin/buildout/croot/flask_1759970065939/work
+Flask==3.0.3
 flask-cors==6.0.2
 fsspec==2026.1.0
-itsdangerous @ file:///C:/Users/dev-admin/buildout/croot/itsdangerous_1759965296215/work
-Jinja2 @ file:///C:/Users/dev-admin/buildout/croot/jinja2_1761938590194/work
-MarkupSafe @ file:///C:/Users/dev-admin/buildout/croot/markupsafe_1759955189290/work
+
 mpmath==1.3.0
 networkx==3.6.1
 numpy==2.4.1
@@ -17,4 +13,4 @@ sympy==1.14.0
 torch==2.10.0
 torchvision==0.25.0
 typing_extensions==4.15.0
-Werkzeug @ file:///C:/Users/dev-admin/buildout/croot/werkzeug_1759968538419/work
+
